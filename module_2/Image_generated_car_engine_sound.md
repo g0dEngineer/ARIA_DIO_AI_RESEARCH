@@ -1,4 +1,4 @@
-Image generated engine sound : Image of supercar (Aria Dio) converted to Engine sound (Work in Progress)
+Image generated artificial engine sound generator: Image of supercar (Aria Dio) converted to Engine sounds (Work in Progress)
 
 ## Workflow
 
