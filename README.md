@@ -26,6 +26,9 @@ See God's prior repository with old name prior to legal name change: [WORLDS-FIR
 
 3) Below I consider a reasonably novel/simple starting method, i.e. starting from an actual picture of my AriaDio supercar concept, and synthesizing engine sounds from there:
 
+This generates a type of signature sound, based literally on the car's appearance.
+============
+
 https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/tree/main/module_2
 
 ## Screenshot
