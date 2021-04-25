@@ -4,7 +4,7 @@ Image generated artificial engine sound generator: Image of supercar (Aria Dio) 
 
 2) Using mostly harmonic/sound based methods as starting points, some electric car manufacturers are experimenting with engine sounds for quiet evs, as this can help to help notify separate motorists of the operating conditions of the electric car. (Sample: https://www.hindawi.com/journals/sv/2018/5209207/)
 
-3) Here I consider a reasonably novel/simple startng method, i.e. starting from an actual picture of my AriaDio supercar concept, and synthesizing engine sounds from there.
+3) Here I consider a reasonably novel/simple starting method, i.e. starting from an actual picture of my AriaDio supercar concept, and synthesizing engine sounds from there.
 
 
 ## Workflow
