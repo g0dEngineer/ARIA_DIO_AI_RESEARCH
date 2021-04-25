@@ -20,7 +20,11 @@ See God's prior repository with old name prior to legal name change: [WORLDS-FIR
 2.) Image generated artificial engine sound generator: Image of supercar (Aria Dio) converted to Engine sounds (Work in Progress)
 ============
 
-Imagining Aria Dio as an electric supercar, I quickly hashed together this image based engine sound audio demo. Engine sounds are generated from a picture of Aria Dio.
+1) Imagining Aria Dio as an electric supercar, I quickly hashed together this image based engine sound audio demo. Engine sounds are generated from a picture of Aria Dio.
+
+2) Using mostly harmonic/sound based methods as starting points, some electric car manufacturers are experimenting with engine sounds for quiet evs, as this can help to help notify separate motorists of the operating conditions of the electric car.
+
+3) Below I consider a reasonably novel/simple startng method, i.e. starting from an actual picture of my AriaDio supercar concept, and synthesizing engine sounds from there:
 
 https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/tree/main/module_2
 
@@ -31,4 +35,4 @@ https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/tree/main/module_2
 
 ## Video
 
-https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module_2/video_.mp4
+https://youtu.be/KR1do0lP6Bw
