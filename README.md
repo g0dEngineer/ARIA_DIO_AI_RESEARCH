@@ -1,4 +1,4 @@
-This shall serve as a main resource for all of [Dio](https://www.behance.net/gallery/113934681/World-1st-supercar-with-windshield-air-vents-Aria-Dio)'s Ai research realted experiments.
+This shall serve as a main resource for all of [Dio](https://www.behance.net/gallery/113934681/World-1st-supercar-with-windshield-air-vents-Aria-Dio)'s Ai research related experiments.
 
 
 1.) Artificial intelligence generated car interior
