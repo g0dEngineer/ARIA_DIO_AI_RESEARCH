@@ -3,9 +3,11 @@
 
 This shall serve as a main resource for all of [Dio](https://www.behance.net/gallery/113934681/World-1st-supercar-with-windshield-air-vents-Aria-Dio)'s Ai research related experiments.
 
-Website: [fb.com/TheAriaDio](fb.com/TheAriaDio)
+i. Main Website: [fb.com/TheAriaDio](fb.com/TheAriaDio)
 
-Select gta iv integration/gameplay before Dio included interior: https://youtu.be/iGprZYAJwas
+ii. Select youtube gta iv integration/gameplay before Dio included interior: https://youtu.be/iGprZYAJwas
+
+iii. Behance: https://www.behance.net/gallery/113934681/World-1st-supercar-with-windshield-air-vents-Aria-Dio
 
 1.) Artificial intelligence generated car interior
 ============
