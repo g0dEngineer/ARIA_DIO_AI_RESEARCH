@@ -20,6 +20,8 @@ See God's prior repository with old name prior to legal name change: [WORLDS-FIR
 2.) Image generated artificial engine sound generator: Image of supercar (Aria Dio) converted to Engine sounds (Work in Progress)
 ============
 
+https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/tree/main/module_2
+
 ## Screenshot
 
 ![image](module_2/screenshot__.png)
