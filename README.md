@@ -22,9 +22,9 @@ See God's prior repository with old name prior to legal name change: [WORLDS-FIR
 
 ## Screenshot
 
-![image](module_2/screenshot_.png)
+![image](module_2/screenshot__.png)
 
 
 ## Video
 
-https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module_2/video.mp4
+https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module_2/video_.mp4
