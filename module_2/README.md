@@ -1,3 +1,7 @@
+
+This generates a type of signature engine sound, based literally on the car's appearance.
+============
+
 Image generated artificial engine sound generator: Image of supercar (Aria Dio) converted to Engine sounds (Work in Progress)
 
 1) Imagining Aria Dio as an electric supercar, I quickly put together this image based engine sound audio demo. Engine sounds are generated from a picture of Aria Dio.
