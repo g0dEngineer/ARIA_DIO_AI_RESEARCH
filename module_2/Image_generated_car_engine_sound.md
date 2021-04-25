@@ -8,9 +8,9 @@ Image generated artificial engine sound generator: Image of supercar (Aria Dio) 
 
 ## Screenshot
 
-![image](screenshot_.png)
+![image](screenshot__.png)
 
 
 ## Video
 
-https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module_2/video.mp4
+https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module_2/video_.mp4
