@@ -31,11 +31,7 @@ This generates a type of signature engine sound, based literally on the car's ap
 
 https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/tree/main/module_2
 
-## Screenshot
 
-![image](module_2/screenshot__.png)
+## Latest artificial Dio Engine sound:
 
-
-## Video
-
-https://youtu.be/KR1do0lP6Bw
+https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module_2/v2_SOURCE_CODE_Aria%20Dio%20Artificial%20Engine%20Sound.zip
