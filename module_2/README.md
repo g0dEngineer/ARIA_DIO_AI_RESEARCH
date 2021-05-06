@@ -29,6 +29,8 @@ Version 1: https://youtu.be/KR1do0lP6Bw
 
 Version 2 & 2.5: https://youtu.be/qiMKNiHagLw
 
+Version 3: https://youtu.be/NBalw6cvIKw
+
 
 ## Future work
 
