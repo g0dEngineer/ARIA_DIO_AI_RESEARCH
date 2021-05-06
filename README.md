@@ -34,4 +34,5 @@ https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/tree/main/module_2
 
 ## Latest artificial Dio Engine sound:
 
-https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module_2/v2_SOURCE_CODE_Aria%20Dio%20Artificial%20Engine%20Sound.zip
+V2: https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module_2/v2_SOURCE_CODE_Aria%20Dio%20Artificial%20Engine%20Sound.zip
+V3: https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module_2/v3_SOURCE_CODE_Aria%20Dio%20Artificial%20Engine%20Sound.zip
