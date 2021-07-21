@@ -30,7 +30,7 @@ https://www.facebook.com/TheAriaDio/
 
 ![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_3.png)
 
-Some handrawn inputs by God Bennett:
+Handrawn input/sample by God Bennett:
 
 <img src="https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/0_large_cropped_lines.jpg" width="400" />
 
