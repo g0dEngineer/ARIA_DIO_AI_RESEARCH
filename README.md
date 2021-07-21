@@ -43,7 +43,7 @@ V3: https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/modul
 ============
 
 
-![image](module 3/RESULT_0.png)
+![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_0.png)
 
 ![image](module 3/RESULT_1.png)
 
