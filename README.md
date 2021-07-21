@@ -37,3 +37,10 @@ https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/tree/main/module_2
 V2: https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module_2/v2_SOURCE_CODE_Aria%20Dio%20Artificial%20Engine%20Sound.zip
 
 V3: https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module_2/v3_SOURCE_CODE_Aria%20Dio%20Artificial%20Engine%20Sound.zip
+
+
+3.) Artificial Intelligence Vehicle Sketch to Paint Converter
+============
+
+Using an Ai library for auto painting, I somewhat quickly experimented with vehicle painting/shading.
+Results were suprising, the Ai being able to shade/paint sketches of vehicles, in seconds, without seeming to have been trained explicitly on the task of sketching vehicles.
