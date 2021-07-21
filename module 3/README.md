@@ -105,19 +105,19 @@ Run demo:
 
 1. Open cmd.
 
-2. Set python path to py35
-path=C:\Users\18765\AppData\Local\Programs\Python\Python35
+2. Set python path to py35 by using command in quotes:
+"path=C:\Users\18765\AppData\Local\Programs\Python\Python35".
 
-3. navigate to project folder.
-cd C:\....\Auto_painter_demo-master
+3. Navigate to project folder.
+"cd C:\....\Auto_painter_demo-master".
 
-4. Create "result" folder to static folder in "Auto_painter_demo-master". This is missing from original repo for some reaosn, and app complains without it.
+4. Create "result" folder in static folder in "Auto_painter_demo-master". This is missing from original repo for some reason, and app complains without it.
 
-5. run Auto_painter_demo app and wait for model load and final report of port:
+5. Run Auto_painter_demo app and wait for model load and final report of port:
 python app2.py
 
 6. In browser, run final app in browser (chrome), at port number reported in step (4), by copying the line below, and pasting it in browser and hitting enter.
 http://localhost:PORT_NUMBER_FROM_4
 
-EG: http://localhost:10086
+Eg: http://localhost:10086
 
