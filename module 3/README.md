@@ -7,7 +7,7 @@
  
 
 Sketch Credits - Input image sketches used in Ai app
-##################
+ ===========
 
 Aria Dio 2045
 Hand drawn sketch by God Bennett
@@ -21,7 +21,7 @@ Official Aston Martin Concept Sketch
 
 
 Original repository:
-##################
+===========
 https://github.com/irfanICMLL/Auto_painter_demo
 
 
@@ -29,7 +29,7 @@ https://github.com/irfanICMLL/Auto_painter_demo
 
 
 Setup demo:
-##################
+===========
 
 Follow all instructions in original repo, starting with my instructions below (So ignore the section on [the original repo](https://github.com/irfanICMLL/Auto_painter_dem) about requirements, but [focus on the pre-trained model download section](https://github.com/irfanICMLL/Auto_painter_demo#quick-start) ):
 
@@ -52,7 +52,7 @@ Overall setup (States specified versions that original readme did not specify wh
 
 
 Run demo:
-##################
+===========
 
 
 1. Open cmd.
