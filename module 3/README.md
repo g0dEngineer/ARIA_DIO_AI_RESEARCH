@@ -32,6 +32,7 @@ https://www.facebook.com/TheAriaDio/
 
 ![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_0.png)
 
+![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_0b.png)
 
 Main Dio Ai Research Page
 =========
@@ -66,11 +67,11 @@ https://github.com/irfanICMLL/Auto_painter_demo
 Setup demo:
 ===========
 
-Follow all instructions in original repo, starting with my instructions below (So ignore the section on [the original repo](https://github.com/irfanICMLL/Auto_painter_dem) about requirements, but [focus on the pre-trained model download section](https://github.com/irfanICMLL/Auto_painter_demo#quick-start) ):
+Follow all instructions in the excellent original repo, however, starting with my instructions below (So ignore the section on [the original repo](https://github.com/irfanICMLL/Auto_painter_dem) about requirements, but [focus on the pre-trained model download section](https://github.com/irfanICMLL/Auto_painter_demo#quick-start) ):
 
-Overall setup (States specified versions that original readme did not specify when it comes to non-anaconda/direct traditional installation. Diverging from these have caused interdependency errors, although a large anaconda install could avert these issues as the original readme advises):
+My overall setup (States specified versions that original readme did not specify when it comes to non-anaconda/direct traditional installation. Diverging from these have caused interdependency errors, although a large anaconda install could avert these issues as the original readme somewhat advises):
 
-1. Py35 fresh install
+1. Python 3.5 fresh install
 2. Uninstall pip
 3. Install setuptools 50.0.0 from zip file/Pypi site
 4. Install pip-20.3.4 from zip file/Pypi site
