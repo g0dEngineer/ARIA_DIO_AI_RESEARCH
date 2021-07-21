@@ -30,9 +30,19 @@ https://www.facebook.com/TheAriaDio/
 
 ![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_3.png)
 
+Some handrawn inputs by God Bennett:
+
+![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/0_large_cropped_lines.jpg | width=100)
+
+![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/1_large_cropped_shaded.jpg | width=100)
+
+God's inputs automatically painted:
+
 ![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_0.png)
 
 ![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_0b.png)
+
+
 
 Main Dio Ai Research Page
 =========
