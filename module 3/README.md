@@ -8,10 +8,15 @@ Artificial Intelligence Vehicle Sketch to Paint Converter | Aria Dio Automobile 
 Author: [God Bennett](https://github.com/g0dEngineer)
 ===========
 
+The future of automated/Ai based car design is exciting, even seeing my simple experiment below.
+
 Configuring and using an open source Artificial Intelligence library for auto painting (that was not explicitly trained on car painting), I somewhat quickly experimented with vehicle painting/shading.
 
-Results were surprising, the Ai being able to shade/paint sketches of vehicles, in seconds, without seeming to have been trained explicitly on the task of sketching vehicles.
+Results were surprising, the Ai being able to shade/paint sketches of vehicles, in seconds, without seeming to have been trained explicitly on the task of shading/painting vehicles.
 
+Youtube Demo: 
+
+https://www.youtube.com/watch?v=nt2RaTLBQQE
 
 Dio Page
 ===========
