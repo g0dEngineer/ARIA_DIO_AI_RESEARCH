@@ -48,14 +48,14 @@ V3: https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/modul
 
 ![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_3.png)
 
-Some handrawn inputs by God Bennett:
+Handrawn input/sample by God Bennett:
 
 <img src="https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/0_large_cropped_lines.jpg" width="400" />
 
 <img src="https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/1_large_cropped_shaded.jpg" width="400" />
 
 
-God's inputs/samples automatically painted:
+God's input automatically painted:
 
 ![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_0.png)
 
