@@ -1,5 +1,5 @@
 
- Artificial Intelligence Vehicle Sketch to Paint Converter
+ Artificial Intelligence Vehicle Sketch to Paint Converter | Aria Dio Automobile Ai Research
  ===========
  
  Author: God Bennett
@@ -7,19 +7,19 @@
  
 
 Sketch Credits - Input image sketches used in Ai app
- ===========
+===========
 
 Aria Dio 2045
 
-* Hand drawn sketch by God Bennett
+* [Hand drawn sketch by God Bennett](https://www.facebook.com/TheAriaDio/posts/124979279493593)
 
 BMW Input Sketch Credits:
 
-* Youtube/Sab Kuch For You
+* Unkown artist
 
 Aston Martin Input Sketch Credits:
 
-* Official Aston Martin Concept Sketch
+* [Official Aston Martin Concept Sketch](https://www.facebook.com/astonmartin/posts/10158041272118355)
 
 
 
