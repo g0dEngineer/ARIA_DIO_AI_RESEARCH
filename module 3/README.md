@@ -37,7 +37,7 @@ Handrawn input/sample by God Bennett:
 <img src="https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/1_large_cropped_shaded.jpg" width="400" />
 
 
-God's inputs automatically painted:
+God's input automatically painted:
 
 ![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_0.png)
 
