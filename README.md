@@ -42,14 +42,14 @@ V3: https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/modul
 3.) Artificial Intelligence Vehicle Sketch to Paint Converter
 ============
 
+![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_2.png)
+
+![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_1.png)
+
+![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_3.png)
 
 ![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_0.png)
 
-![image](module 3/RESULT_1.png)
-
-![image](module 3/RESULT_2.png)
-
-![image](module 3/RESULT_3.png)
 
 Using an Ai library for auto painting, I somewhat quickly experimented with vehicle painting/shading.
 
