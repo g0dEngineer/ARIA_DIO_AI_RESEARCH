@@ -117,7 +117,7 @@ Run demo:
 python app2.py
 
 6. In browser, run final app in browser (chrome), at port number reported in step (4), by copying the line below, and pasting it in browser and hitting enter.
-http://localhost:PORT_NUMBER_FROM_4
+http://localhost:PORT_NUMBER_FROM_ITEM_5
 
 Eg: http://localhost:10086
 
