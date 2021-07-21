@@ -10,13 +10,16 @@ Sketch Credits - Input image sketches used in Ai app
  ===========
 
 Aria Dio 2045
-Hand drawn sketch by God Bennett
+
+* Hand drawn sketch by God Bennett
 
 BMW Input Sketch Credits:
-Youtube/Sab Kuch For You
+
+* Youtube/Sab Kuch For You
 
 Aston Martin Input Sketch Credits:
-Official Aston Martin Concept Sketch
+
+* Official Aston Martin Concept Sketch
 
 
 
