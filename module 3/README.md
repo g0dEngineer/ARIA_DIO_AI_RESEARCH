@@ -74,13 +74,14 @@ Overall setup (States specified versions that original readme did not specify wh
 2. Uninstall pip
 3. Install setuptools 50.0.0 from zip file/Pypi site
 4. Install pip-20.3.4 from zip file/Pypi site
-5. pip install tornado==4.1
-6. pip install urllib3==1.15
-7. pip install Numpy==1.17.5
-8. pip install scikit_image==0.15.0
-9. pip install scipy==1.0.0
-10. pip install werkzeug
-11. pip install flask
+5. pip install tensorflow==1.4.0
+6. pip install tornado==4.1
+7. pip install urllib3==1.15
+8. pip install Numpy==1.17.5
+9. pip install scikit_image==0.15.0
+10. pip install scipy==1.0.0
+11. pip install werkzeug
+12. pip install flask
 
 
 
