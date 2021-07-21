@@ -50,6 +50,8 @@ V3: https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/modul
 
 ![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_0.png)
 
+![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_0b.png)
+
 The future of automated/Ai based car design is exciting, even seeing my simple experiment below.
 
 Configuring and using an open source Artificial Intelligence library for auto painting (that was not explicitly trained on car painting), I somewhat quickly experimented with vehicle painting/shading.
