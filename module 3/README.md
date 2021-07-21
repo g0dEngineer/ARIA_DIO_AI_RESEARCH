@@ -4,7 +4,19 @@
  
  Author: God Bennett
  
- 
+![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_2.png)
+
+![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_1.png)
+
+![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_3.png)
+
+![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_0.png)
+
+
+Main Dio Ai Research Page
+=========
+https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research#3-artificial-intelligence-vehicle-sketch-to-paint-converter
+
 
 Sketch Credits - Input image sketches used in Ai app
 ===========
