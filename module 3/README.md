@@ -1,9 +1,10 @@
 
- Artificial Intelligence Vehicle Sketch to Paint Converter | Aria Dio Automobile Ai Research
- ===========
+Artificial Intelligence Vehicle Sketch to Paint Converter | Aria Dio Automobile Ai Research
+===========
  
- Author: God Bennett
- 
+Author: [God Bennett](https://github.com/g0dEngineer)
+===========
+  
 ![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_2.png)
 
 ![image](https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/RESULT_1.png)
