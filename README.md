@@ -1,5 +1,5 @@
 
-![image](images/0_another_shot_CYCLES_FRONT.png)
+![image](images/0_another_shot_CYCLES_FRONT.png) The image represents Dio's initial form. Dio's [latest visual form exists within the "omni_automobil" category, as coined by God Bennett](https://www.behance.net/gallery/125296657/OmniAutomobil-Concept-Aria-Dio-2060-Esterno-Solare).
 
 This shall serve as a main resource for all of [Dio](https://www.behance.net/gallery/113934681/World-1st-supercar-with-windshield-air-vents-Aria-Dio)'s Ai research related experiments.
 
