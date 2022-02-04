@@ -69,3 +69,7 @@ Configuring and using an open source Artificial Intelligence library for auto pa
 Results were surprising, the Ai being able to shade/paint sketches of vehicles, in seconds, without seeming to have been trained explicitly on the task of shading/painting vehicles.
 
 https://github.com/g0dEngineer/Dio-Le-Automobile-Ai-Research/blob/main/module%203/README.md
+
+4.) xSynth: World 1st casual 3d car artificial intelligence Friend/Helper for Honda Civic 10th Gen 
+
+https://youtu.be/pxgLJSd3_-s
